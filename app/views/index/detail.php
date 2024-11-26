@@ -1,0 +1,1 @@
+<h2>Detail - <?php echo $data['row_detail']; ?></h2>
